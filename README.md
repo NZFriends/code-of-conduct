@@ -105,4 +105,4 @@ Similarly, someone losing a staff position does not indicate they did something 
 
 All staff are expected to not discuss staffing decisions publicly to allow anyone to rejoin the wider community peacefully.
 
-An `Almuni` role may exist in the future.
+An `Alumni` role may exist in the future.
