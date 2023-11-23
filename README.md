@@ -19,7 +19,7 @@ Decisions ultimately rest with server owner.
    - Follow the server rules. You are not above them because you are staff.
    - Do not participate or incite dogpiling, mob mentalities, or random outrage.
    - Do not abuse your position. At all.
-     - No misusing bots, granting roles that haven't earned, moving people in VCs for fun, etc.
+     - No misusing bots, granting roles that haven't been earned, moving people in VCs for fun, etc.
      - It does not matter if they're your friends or other staff.
      - Moderation functions are for moderation. Nothing else.
 1. Maintain a publicly acceptable environment.
