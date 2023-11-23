@@ -11,7 +11,7 @@ What is good for the community may or may not be good for the individual or even
 Decisions ultimately rest with server owner.
 
 ## Staff Code of Conduct
-1. Respect eachother.
+1. Respect each other.
    - We can disagree privately, but being part of staff means everyone else on staff has your back.
    - Changing your mind or realising you have the wrong stance on something is okay. No staff member should make you feel otherwise.
    - If a member of staff is not following the code of conduct, call them out privately or in `#staff-chat`. Use your discretion and escalate to admins or owner if necessary.
