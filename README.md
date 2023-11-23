@@ -26,7 +26,7 @@ Decisions ultimately rest with server owner.
    - People are here to find real life friends. Treat it like an in person public space.
    - Use your better judgment. If it isn't against the server rules, Discord's terms of service and doesn't toe the line of criminal activity, it should be allowed, provided the discussion remains respectful and appropriate.
 1. Take action.
-    - In being a member of staff you are expected to take action to maintain the community rules as outlined in the rules channel.
+    - In being a member of staff you are expected to take action to maintain the community rules as outlined in the [rules channel](https://discord.com/channels/917958310664241192/1128547907457527838).
     - Failing to take action on an issue but complaining about it is neither fair to other staff members nor conducive to a healthy team environment. You have moderator abilities so are expected to act on issues as appropriate. If you are unsure, ask the team. If the consensus is yes, then take the action.
     - You **MUST** add case notes for any action you take. This is so people other than you can understand what happened.
         * You can use the Discord kick/ban functions, which will auto-create a case for you to update.
